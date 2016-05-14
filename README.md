@@ -1,2 +1,3 @@
 # hello-world
-Familiarizing Girhub
+This is just a test in line with familiarizing Github
+
